@@ -8,3 +8,4 @@ Subir cambios a producción desde la rama front-react a master.
 Y asumiendo que no haya conflictos que se requieran resolver:
 
 - git commit
+- git push
